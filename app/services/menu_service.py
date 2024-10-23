@@ -48,6 +48,7 @@ def generate_menu(optional_dish: str = None, ingredients: list = None, supplies:
             ]
         }}
     }}
+    แทนที่ค่า value ด้วยเนื้อหาจริง หากคุณไม่รูจักเมนูหรือคิดว่าพิมพ์ผิดให้บอกว่าไม่รู้จัก
     """
     
     # Format the prompt
